@@ -1,0 +1,29 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/images/Ted_Mountains.jpg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.info {
+  font-size: large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: antiquewhite;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  display: flex;
+}
+
+.info-2 {
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  display: flex;
+  
+}
